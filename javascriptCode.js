@@ -25,3 +25,4 @@ location=shortcut.example.options[shortcut.example.selectedIndex].value
 
 function showtext(){
 shortcut.text.value=descriptions[shortcut.example.selectedIndex]
+}
