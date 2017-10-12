@@ -7,3 +7,4 @@ if (test1<3){
   var text="Final alert I promise! The var test1 is " + test1;
   alert(text);
 }
+//I'm at 02:06 on working with operators
