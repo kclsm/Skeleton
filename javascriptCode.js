@@ -4,4 +4,5 @@ var course, moduleSelected;
 var test1= 0;
 if (test1<3){
   test1 = 100;
+  alert("Final alert I promise");
 }
