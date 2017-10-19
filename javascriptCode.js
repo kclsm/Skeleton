@@ -14,16 +14,16 @@ var descriptions=new Array()
 
 //extend this list if neccessary to accomodate more selections
 descriptions[0]="6CCS3AIN- argh!!!!!"
-descriptions[1]="Click here for CNN, one of the best sources online to get your news."
+descriptions[1]="second module clicked"
 descriptions[2]="Click here for Geocities, and receive 10 megs of free web space."
 descriptions[3]="This is looooong."
 
 
-shortcut.text.value=descriptions[shortcut.example.selectedIndex]
+shortcut.text.value=descriptions[shortcut.sem1.selectedIndex]
 function gothere(){
-location=shortcut.example.options[shortcut.example.selectedIndex].value
+location=shortcut.example.options[shortcut.sem1.selectedIndex].value
 }
 
 function showtext(){
-shortcut.text.value=descriptions[shortcut.example.selectedIndex]
+shortcut.text.value=descriptions[shortcut.sem1.selectedIndex]
 }
