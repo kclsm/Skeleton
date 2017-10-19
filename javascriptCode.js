@@ -45,13 +45,13 @@ function showtext(){
 
 function addSem2(){
 	
-	shortcutSelectionText.selectionText.value.append("[shortcutsem2.sem2.selectedIndex]")
+	shortcutSelectionText.selectionText.value= "[shortcutsem2.sem2.selectedIndex]"
 	addRow()
 
 }
 function addSem1(){
 	
-	shortcutSelectionText.selectionText.value.append("[shortcutsem1.sem1.selectedIndex]")
+	shortcutSelectionText.selectionText.value="[shortcutsem1.sem1.selectedIndex]"
 	addRow()
 
 }
