@@ -46,13 +46,13 @@ function showtext(){
 function addSem2(){
 	
 	//shortcutSelectionText.selectionText.value= sem2Description[shortcutsem2.sem2.selectedIndex]
-	addRow()
+	//addRow()
 
 }
 function addSem1(){
 	
 	//shortcutSelectionText.selectionText.value=sem1Description[shortcutsem1.sem1.selectedIndex]
-	addRow()
+	//addRow()
 
 }
 
