@@ -21,7 +21,7 @@ descriptions[3]="This is looooong."
 
 shortcut.text.value=descriptions[shortcut.sem1.selectedIndex]
 function gothere(){
-location=shortcut.example.options[shortcut.sem1.selectedIndex].value
+location=shortcut.sem1.options[shortcut.sem1.selectedIndex].value
 }
 
 function showtext(){
