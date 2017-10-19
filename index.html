@@ -176,25 +176,24 @@
 <input type="button" value="Go!"
 onClick="gothere()">
 
-<input type="button" value="Add to Selection!"
-onClick="add()"><br>
-		
-		<script>
-function addRow() {
-    var table = document.getElementById("moduleTable");
-    var row = table.insertRow(-1);
-    var module = row.insertCell(0);
-    var lecturer = row.insertCell(1);
-    var status = row.insertCell(2);
-    var term = row.insertCell(3);
-    var credit = row.insertCell(4);
-    module.innerHTML = "NEW CELL1";  
-    lecturer.innerHTML = "NEW CELL2";
-    status.innerHTML = "knk";
-    credit.innerHTML = "flkgmg";
-    term.innerHTML = "kfmkm";
-}
-</script>
+	<button onclick="addRow()">Select</button>	
+
+<script>
+      function addRow() {
+        var table = document.getElementById("moduleTable");
+        var row = table.insertRow(-1);
+        var module = row.insertCell(0);
+        var lecturer = row.insertCell(1);
+        var status = row.insertCell(2);
+        var term = row.insertCell(3);
+        var credit = row.insertCell(4);
+        module.innerHTML = "NEW CELL1";  
+        lecturer.innerHTML = "NEW CELL2";
+        status.innerHTML = "knk";
+        credit.innerHTML = "flkgmg";
+        term.innerHTML = "kfmkm";
+      }
+  </script>
 	
  <textarea rows=5 cols=21 name="sem1text"></textarea>
  </form>
