@@ -18,6 +18,9 @@ descriptions[1]="second module clicked"
 descriptions[2]="Click here for Geocities, and receive 10 megs of free web space."
 descriptions[3]="This is looooong."
 
+	var descriptions2=new Array()
+descriptions2[0]="test worked?"
+	descriptions2[0]="yes?"	
 
 shortcut.text.value=descriptions[shortcut.example.selectedIndex]
 function gothere(){
@@ -26,5 +29,5 @@ location=shortcut.example.options[shortcut.example.selectedIndex].value
 
 function showtext(){
 shortcut.text.value=descriptions[shortcut.example.selectedIndex]
-shortcut.sem1text.value=descriptions[shortcut.sem1.selectedIndex]
+shortcut.sem1text.value=descriptions2[shortcut.sem1.selectedIndex]
 }
