@@ -19,9 +19,9 @@ descriptions[2]="Click here for Geocities, and receive 10 megs of free web space
 descriptions[3]="This is looooong."
 
 
-shortcut.text.value=descriptions[shortcut.sem1.selectedIndex]
+shortcut.text.value=descriptions[shortcut.example.selectedIndex]
 function gothere(){
-location=shortcut.sem1.options[shortcut.sem1.selectedIndex].value
+location=shortcut.example.options[shortcut.example.selectedIndex].value
 }
 
 function showtext(){
