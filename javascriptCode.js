@@ -9,28 +9,29 @@ if (test1<3){
 }
 //I'm at 02:06 on working with operators
 */
-var shortcut=document.combowithtext
-var shortcut2=document.combowithsem1text
-var descriptions=new Array()
+var shortcutsem2=document.combowithsem2text
+var shortcutsem1=document.combowithsem1text
+var sem1Description=new Array()
+var sem2Description=new Array()
 
 //extend this list if neccessary to accomodate more selections
-descriptions[0]="6CCS3AIN- argh!!!!!"
-descriptions[1]="second module clicked"
-descriptions[2]="Click here for Geocities, and receive 10 megs of free web space."
-descriptions[3]="This is looooong."
+sem1Description[0]="6CCS3AIN- argh!!!!!"
+sem1Description[1]="second module clicked"
+sem1Description[2]="Click here for Geocities, and receive 10 megs of free web space."
+sem1Description[3]="This is looooong."
 
-	var descriptions2=new Array()
-descriptions2[0]="test worked?"
-descriptions2[1]="yes?"	
 
-shortcut.text.value=descriptions[shortcut.example.selectedIndex]
-shortcut2.sem1text.value=descriptions2[shortcut.sem1.selectedIndex]
+sem2Description[0]="test worked?"
+sem2Description[1]="yes?"	
+
+shortcutsem2.sem2text.value=sem2Description[shortcutsem2.sem2.selectedIndex]
+shortcutsem1.sem1text.value=sem1Description[shortcutsem1.sem1.selectedIndex]
 function gothere(){
-location=shortcut.example.options[shortcut.example.selectedIndex].value
-location=shortcut2.sem1.options[shortcut2.sem1.selectedIndex].value
+location=shortcutsem2.sem2.options[shortcutsem2.sem2.selectedIndex].value
+location=shortcutsem1.sem1.options[shortcutsem1.sem1.selectedIndex].value
 }
 
 function showtext(){
-shortcut.text.value=descriptions[shortcut.example.selectedIndex]
-shortcut2.sem1text.value=descriptions2[shortcut2.sem1.selectedIndex]
+	shortcutsem2.sem2text.value=sem2Description[shortcutsem2.sem2.selectedIndex]
+	shortcutsem1.sem1text.value=sem1Description[shortcutsem1.sem1.selectedIndex]
 }
