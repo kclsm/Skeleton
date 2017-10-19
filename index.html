@@ -32,6 +32,11 @@
   <link rel="icon" type="image/png" href="images/favicon.png">
   
 <style>
+	
+.moduleTable, td, th {
+    border: 2px solid black;
+}
+	
 .dropbtn {    
 	background-color: "#FFAFFF";
     color: white;
@@ -227,8 +232,20 @@ onClick="gothere()"><br>
 
 </form>
 </div></div>
-          <div class="box e">Module Table</div>
+          <div class="box e">
+	      <table id="moduleTable">
+                 <tr>
+                   <th>Module</th>
+                   <th>Lecturer(s)</th>
+                   <th>Status</th>
+                   <th>Credit</th>
+                   <th>Term</th>
+                 </tr>
+               </table
+	  </div>
+		      
           <div class="box f">Suggestions</div>
+		      
             <div class="box g">
 -               <form action= "https://www.kcl.ac.uk/nms/depts/informatics/contact/index.aspx">
 -		       <button class="contbtn">Contact us</button>
