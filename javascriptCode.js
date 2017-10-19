@@ -10,6 +10,7 @@ if (test1<3){
 //I'm at 02:06 on working with operators
 */
 var shortcut=document.combowithtext
+var shortcut2=document.combowithtext
 var descriptions=new Array()
 
 //extend this list if neccessary to accomodate more selections
@@ -23,7 +24,7 @@ descriptions2[0]="test worked?"
 	descriptions2[0]="yes?"	
 
 shortcut.text.value=descriptions[shortcut.example.selectedIndex]
-shortcut.sem1text.value=descriptions2[shortcut.sem1.selectedIndex]
+shortcut2.sem1text.value=descriptions2[shortcut.sem1.selectedIndex]
 function gothere(){
 location=shortcut.example.options[shortcut.example.selectedIndex].value
 }
