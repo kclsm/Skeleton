@@ -10,7 +10,7 @@ if (test1<3){
 //I'm at 02:06 on working with operators
 */
 var shortcut=document.combowithtext
-var shortcut2=document.combowithtext
+var shortcut2=document.combowithsem1text
 var descriptions=new Array()
 
 //extend this list if neccessary to accomodate more selections
