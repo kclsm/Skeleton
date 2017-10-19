@@ -41,6 +41,6 @@ function showtext(){
 
 }
 
-functionadd(){
+function add(){
 	var x=5;
 }
