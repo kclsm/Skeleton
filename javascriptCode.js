@@ -11,8 +11,10 @@ if (test1<3){
 */
 var shortcutsem2=document.combowithsem2text
 var shortcutsem1=document.combowithsem1text
+var shortcutSelectionText=document.selectiontext
 var sem1Description=new Array()
 var sem2Description=new Array()
+var selected=new Array()
 
 
 //extend this list if neccessary to accomodate more selections
@@ -42,5 +44,6 @@ function showtext(){
 }
 
 function add(){
-	var x=5;
+	
+	//this should add the selected module to the text box / to the selected array. Can you pass parameters in javascript functions?
 }
