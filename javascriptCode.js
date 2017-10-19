@@ -27,9 +27,10 @@ shortcut.text.value=descriptions[shortcut.example.selectedIndex]
 shortcut2.sem1text.value=descriptions2[shortcut.sem1.selectedIndex]
 function gothere(){
 location=shortcut.example.options[shortcut.example.selectedIndex].value
+location=shortcut2.sem1.options[shortcut2.sem1.selectedIndex].value
 }
 
 function showtext(){
 shortcut.text.value=descriptions[shortcut.example.selectedIndex]
-shortcut.sem1text.value=descriptions2[shortcut2.sem1.selectedIndex]
+shortcut2.sem1text.value=descriptions2[shortcut2.sem1.selectedIndex]
 }
