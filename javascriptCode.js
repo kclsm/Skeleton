@@ -23,6 +23,7 @@ descriptions2[0]="test worked?"
 	descriptions2[0]="yes?"	
 
 shortcut.text.value=descriptions[shortcut.example.selectedIndex]
+shortcut.sem1text.value=descriptions2[shortcut.sem1.selectedIndex]
 function gothere(){
 location=shortcut.example.options[shortcut.example.selectedIndex].value
 }
