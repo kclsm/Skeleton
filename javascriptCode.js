@@ -40,3 +40,7 @@ function showtext(){
 	shortcutsem1.sem1text.value=sem1Description[shortcutsem1.sem1.selectedIndex]
 
 }
+
+functionadd(){
+	var x=5;
+}
