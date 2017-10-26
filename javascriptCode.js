@@ -19,7 +19,7 @@ var selected=new Array()
 
 //extend this list if neccessary to accomodate more selections
 
-sem1Description[0]="6CCS3AIN- Credit value: 15. Some basic knowledge of Logic recommended. Assessment: 80% written examination, 20% coursework.Students successfully completing this module should be able to: "+
+sem1Description[0]="Credit value: 15. Some basic knowledge of Logic recommended. Assessment: 80% written examination, 20% coursework.Students successfully completing this module should be able to: "+
 "Demonstrate a sound knowledge and understanding of advanced techniques in artificial intelligence."
 +"Judiciously apply these techniques to a range of subject-specific problems"
 +"Implement these techniques in computer software."
@@ -41,7 +41,19 @@ sem1Description[2]="Credit value: 15, Assessment: "+
 "have some practical experience of working with agent systems."
 
 
-sem1Description[3]="This is looooong."
+sem1Description[3]="Credit value: 15, Assessment: 80% written examination, "+
+"20% coursework"+
+"To explain the techniques behind compilers, lexers and parsers. To introduce the mathematical formalisms ofregular expressions, context-free grammars, and to show their applications to computer languages. To illustrate low level machine languages and compiler techniques. "+
+"At the end of this module students will have learned how to use regular " +
+"expressions to scrape information from the web, how to design grammars for" +
+" parsing languages and how to implement a small interpreter and compiler. Students will be able to implement the central components of a small compiler. Students will also know the theory behind lexing " +
+"and parsing so that they can choose an appropriate algorithm for recognising a computer language."
+
+	
+	
+	
+	
+	
 sem1Description[4]=""
 sem1Description[5]=""
 sem1Description[6]=""
