@@ -63,7 +63,11 @@ sem1Description[5]="Credit value: 15 "+
 " equalization concept."
 	
 	
-sem1Description[6]=""
+sem1Description[6]="Credit value: 15. Assessment: "+
+"65% written examination, 35% coursework "+
+"Computer Vision is concerned with the automatic interpretation and analysis of images. The goal is to enable computers to understand visual information in a similar way to humans. Such an ability is fundamental for solving many problems in areas such as industrial inspection, medical image analysis, robot navigation, biometrics, surveillance and security. This module aims to provide a comprehensive introduction to the subject, covering the basic concepts, methodologies and tools of image analysis and interpretation. This module will also explore the biological visual system, which has solved the problem of vision far better than contemporary computer vision systems. This will highlight the limitations of computer vision and suggest approaches for building improved, biologically-inspired, vision systems."
+	
+	
 sem1Description[7]=""
 sem1Description[8]=""
 sem1Description[9]=""
