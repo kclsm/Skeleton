@@ -49,12 +49,16 @@ sem1Description[3]="Credit value: 15, Assessment: 80% written examination, "+
 " parsing languages and how to implement a small interpreter and compiler. Students will be able to implement the central components of a small compiler. Students will also know the theory behind lexing " +
 "and parsing so that they can choose an appropriate algorithm for recognising a computer language."
 
+
+sem1Description[4]="Credit value: 15, Assessment: 100% written examination," +
+"To introduce both theoretical and practical aspects of cryptography, authentication and information security."+
+"On successful completion of this module you should be able to understand the relevant mathematical techniques associated with cryptography; understand the principles of cryptographic techniques and perform implementations of selected algorithms in this area; appreciate the application of security techniques in solving real-life security problems in practical systems."
+
 	
 	
 	
 	
 	
-sem1Description[4]=""
 sem1Description[5]=""
 sem1Description[6]=""
 sem1Description[7]=""
