@@ -47,16 +47,22 @@
 }
 	
 .addbtn {
-   color: white;
-   font-size: 12px;
+   font-size: 14px;
    border: none;
 }
 	
+.addbtn:hover {
+   color: white;
+}
+	
 .contbtn {
-    color: white;
     font-size: 18px;
     border: none;
-	}
+}
+
+.contbtn:hover {
+    color: white;
+}
 	
 .dropdown {
     position: relative;
@@ -185,7 +191,7 @@
 <input type="button" value="Go!" class="addbtn"
 onClick="gothere()">
 
-	<button onclick="addSem1()">Select</button>	
+	<button class="addbtn" onclick="addSem1(); return false;">Select</button>	
 
 	
  <textarea rows=5 cols=21 name="sem1text"></textarea>
@@ -216,7 +222,7 @@ onClick="gothere()">
 <input type="button" value="Go!" class="addbtn"
 onClick="gothere()">
 	
-	<button onclick="addSem2()">Select</button>
+	<button class="addbtn" onclick="addSem2(); return false;">Select</button>
 
 <textarea rows=5 cols=21 name="sem2text"></textarea>
 
