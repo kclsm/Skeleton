@@ -113,7 +113,10 @@ sem1Description[15]="Credit value: 30," +
 		"Formative assessment: four project reports and one project background " +
 		"and specification report"
 		
-sem1Description[16]=""
+sem1Description[16]="Credit value: 15, Assessment: " +
+		"65% written examination, 3 hours " +
+		"35% coursework (2 reports, approximately 7 pages each)"
+	
 sem1Description[17]=""
 sem1Description[18]=""
 sem1Description[19]=""
