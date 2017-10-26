@@ -120,8 +120,8 @@ sem1Description[16]="Credit value: 15, Assessment: " +
 sem1Description[17]="Credit value: 15, Assessment: 100% written examination"
 	
 	
-sem1Description[18]=""
-sem1Description[19]=""
+sem1Description[18]="Credit value: 15, Assessment: 75% examination; 25% coursework"
+sem1Description[19]="Credit value: 15, Assessment: 100% written examination"
 
 sem2Description[0]="test worked?"
 sem2Description[1]="yes?"	
