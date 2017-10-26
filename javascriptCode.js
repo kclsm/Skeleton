@@ -127,7 +127,7 @@ function addRow() {
   var status = row.insertCell(2);
   var term = row.insertCell(3);
   var credit = row.insertCell(4);
-  mymodule.innerHTML = "NEW CELL1";  
+  mymodule.innerHTML = moduleTitlesSem1[selectedIndex];  
   lecturer.innerHTML = "NEW CELL2";
   status.innerHTML = "knk";
   credit.innerHTML = "flkgmg";
