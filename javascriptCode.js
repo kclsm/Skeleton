@@ -31,9 +31,33 @@ sem1Description[1]="Credit value: 15."+
 "Be practised in the use of planning modelling languages such as PDDL"+
 "Have practical experience of working with and benchmarking planning algorithm"
 
-sem1Description[2]="Click here for Geocities, and receive 10 megs of free web space."
-sem1Description[3]="This is looooong."
+sem1Description[2]="Credit value: 15, Assessment: "+
+"80% written examination, 20% coursework"+
+"Formative assessment: non-assessed problem sheets"+
+"This module provides a critical introduction to theories and methods regarding multi-agent computer systems and their component agents, focussing particularly on mechanisms for coordination and agreement between self-interested agents."+
+"At the end of the course, students should: "+
+"understand what an agent is and why they are a useful technology;"+
+"be familiar with a range of methods that can be used to coordinate self-interested agents that are part of a multi-agent system and allow them to reach agreements on things;"+
+"have some practical experience of working with agent systems."
 
+
+sem1Description[3]="This is looooong."
+sem1Description[4]=""
+sem1Description[5]=""
+sem1Description[6]=""
+sem1Description[7]=""
+sem1Description[8]=""
+sem1Description[9]=""
+sem1Description[10]=""
+sem1Description[11]=""
+sem1Description[12]=""
+sem1Description[13]=""
+sem1Description[14]=""
+sem1Description[15]=""
+sem1Description[16]=""
+sem1Description[17]=""
+sem1Description[18]=""
+sem1Description[19]=""
 
 sem2Description[0]="test worked?"
 sem2Description[1]="yes?"	
