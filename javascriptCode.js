@@ -19,7 +19,11 @@ var selected=new Array()
 
 //extend this list if neccessary to accomodate more selections
 
-sem1Description[0]="6CCS3AIN- argh!!!!!"
+sem1Description[0]="6CCS3AIN- Credit value: 15. Some basic knowledge of Logic recommended. Assessment: 80% written examination, 20% coursework." +
+"Students successfully completing this module should be able to: "+
+"Demonstrate a sound knowledge and understanding of advanced techniques in artificial intelligence.
++"Judiciously apply these techniques to a range of subject-specific problems
++"Implement these techniques in computer software."
 sem1Description[1]="second module clicked"
 sem1Description[2]="Click here for Geocities, and receive 10 megs of free web space."
 sem1Description[3]="This is looooong."
