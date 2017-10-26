@@ -55,11 +55,14 @@ sem1Description[4]="Credit value: 15, Assessment: 100% written examination," +
 "On successful completion of this module you should be able to understand the relevant mathematical techniques associated with cryptography; understand the principles of cryptographic techniques and perform implementations of selected algorithms in this area; appreciate the application of security techniques in solving real-life security problems in practical systems."
 
 	
+sem1Description[5]="Credit value: 15 "+
+"Assessment: 70% written examination, 30% coursework (quiz) "
++"To introduce the fundamental concepts of digital communication systems,"
++ "including data modulation and demodulation, discrete data detection,"+
+"constellations, passband system analysis, intersymbol interference analysis and" +
+" equalization concept."
 	
 	
-	
-	
-sem1Description[5]=""
 sem1Description[6]=""
 sem1Description[7]=""
 sem1Description[8]=""
