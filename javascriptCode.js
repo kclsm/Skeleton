@@ -95,7 +95,7 @@ sem1Description[9]="Credit value: 30," +
 sem1Description[10]="Credit value: 15, Assessment: 70% written examination (3 hours) " +
 		"30% coursework (quiz and homework)"
 	
-sem1Description[11]=""
+sem1Description[11]="redit value: 15, Assessment: 100% written examination"
 sem1Description[12]=""
 sem1Description[13]=""
 sem1Description[14]=""
