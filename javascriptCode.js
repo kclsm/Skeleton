@@ -23,7 +23,14 @@ sem1Description[0]="6CCS3AIN- Credit value: 15. Some basic knowledge of Logic re
 "Demonstrate a sound knowledge and understanding of advanced techniques in artificial intelligence."
 +"Judiciously apply these techniques to a range of subject-specific problems"
 +"Implement these techniques in computer software."
-sem1Description[1]="second module clicked"
+sem1Description[1]="Credit value: 15."+
+"Assessment 75% written examination, 25% coursework "+
+"This module covers the state-of-the-art in Artificial Intelligence planning, looking at the theoretical details behind planning; the implementation of planning techniques; and how planning can be used effectively in application."+
+"At the end of the course students should: "+
+"Be familiar with a range of topics in classical, temporal and numeric planning"+
+"Be practised in the use of planning modelling languages such as PDDL"+
+"Have practical experience of working with and benchmarking planning algorithm"
+
 sem1Description[2]="Click here for Geocities, and receive 10 megs of free web space."
 sem1Description[3]="This is looooong."
 
