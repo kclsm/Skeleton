@@ -59,12 +59,12 @@ function addSem1(){
 function addRow() {
   var table = document.getElementById("moduleTable");
   var row = table.insertRow(-1);
-  var module = row.insertCell(0);
+  var mymodule = row.insertCell(0);
   var lecturer = row.insertCell(1);
   var status = row.insertCell(2);
   var term = row.insertCell(3);
   var credit = row.insertCell(4);
-  module.innerHTML = "NEW CELL1";  
+  mymodule.innerHTML = "NEW CELL1";  
   lecturer.innerHTML = "NEW CELL2";
   status.innerHTML = "knk";
   credit.innerHTML = "flkgmg";
