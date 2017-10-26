@@ -106,7 +106,13 @@ sem1Description[13]="Credit value: 15, Assessment:" +
 		"20% coursework"
 		
 sem1Description[14]="Credit value: 15, Assessment: 100% written examination"
-sem1Description[15]=""
+	
+sem1Description[15]="Credit value: 30," +
+		"Assessment: 100% final report. Attendance at an oral presentation is " +
+		"compulsory for passing the module ." +
+		"Formative assessment: four project reports and one project background " +
+		"and specification report"
+		
 sem1Description[16]=""
 sem1Description[17]=""
 sem1Description[18]=""
