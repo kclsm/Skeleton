@@ -117,7 +117,9 @@ sem1Description[16]="Credit value: 15, Assessment: " +
 		"65% written examination, 3 hours " +
 		"35% coursework (2 reports, approximately 7 pages each)"
 	
-sem1Description[17]=""
+sem1Description[17]="Credit value: 15, Assessment: 100% written examination"
+	
+	
 sem1Description[18]=""
 sem1Description[19]=""
 
