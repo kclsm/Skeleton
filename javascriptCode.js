@@ -109,17 +109,18 @@ function showtext(){
 function addSem2(){
 	
 	shortcutSelectionText.selectionText.value= sem2Description[shortcutsem2.sem2.selectedIndex]
-	addRow()
+	addRowSem2()
 
 }
 function addSem1(){
 	
 	shortcutSelectionText.selectionText.value=sem1Description[shortcutsem1.sem1.selectedIndex]
-	addRow()
+	addRowSem1()
 
 }
 
-function addRow() {
+
+function addRowSem1() {
   var table = document.getElementById("moduleTable");
   var row = table.insertRow(-1);
   var mymodule = row.insertCell(0);
@@ -128,6 +129,21 @@ function addRow() {
   var term = row.insertCell(3);
   var credit = row.insertCell(4);
   mymodule.innerHTML = moduleTitlesSem1[selectedIndex];  
+  lecturer.innerHTML = "NEW CELL2";
+  status.innerHTML = "knk";
+  credit.innerHTML = "flkgmg";
+  term.innerHTML = "kfmkm";
+}
+
+function addRowSem1() {
+  var table = document.getElementById("moduleTable");
+  var row = table.insertRow(-1);
+  var mymodule = row.insertCell(0);
+  var lecturer = row.insertCell(1);
+  var status = row.insertCell(2);
+  var term = row.insertCell(3);
+  var credit = row.insertCell(4);
+  mymodule.innerHTML = moduleTitlesSem2[selectedIndex];  
   lecturer.innerHTML = "NEW CELL2";
   status.innerHTML = "knk";
   credit.innerHTML = "flkgmg";
