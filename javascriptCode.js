@@ -76,7 +76,13 @@ sem1Description[7]="Credit value: 15. Assessment: 100% written examination, "+
 "formalisms for knowledge representation and reasoning used in AI systems."
 	
 	
-sem1Description[8]=""
+sem1Description[8]="Credit value: 30, Assessment: 100% final report. " +
+		"Attendance at an oral presentation is also"
++"compulsory for passing the module. The oral presentation will be pass/fail and" +
+		" have a qualifying mark of pass. Formative assessment: four project" +
+		" reports and one project background and specification report"
+	
+	
 sem1Description[9]=""
 sem1Description[10]=""
 sem1Description[11]=""
