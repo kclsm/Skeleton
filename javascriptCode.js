@@ -83,7 +83,14 @@ sem1Description[8]="Credit value: 30, Assessment: 100% final report. " +
 		" reports and one project background and specification report"
 	
 	
-sem1Description[9]=""
+sem1Description[9]="Credit value: 30," +
+"Assessment: " +
+"20% individual report " +
+"30% group report" +
+"10% oral presentation" +
+"10% group mid-year report" +
+"15% individual viva voce" +
+"15% group progress report-multiple"
 sem1Description[10]=""
 sem1Description[11]=""
 sem1Description[12]=""
